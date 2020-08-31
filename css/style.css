@@ -1,0 +1,85 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+
+}
+h1{     
+    border: 0px solid tomato;
+    text-decoration:  overline ;
+    
+    padding: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+   font-size : 160px;
+   background-color: tomato;
+   color: rgb(252, 230, 35);
+}
+h2{
+    display: inline;
+    margin-top: 0px;
+    color: rgb(252, 230, 35);
+}
+a{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+h3{ 
+    text-decoration: none;
+    padding: 10px;
+}
+#sec1{
+    float: right;
+}
+#firstImage{
+margin-left: 10px;
+float: right;
+margin-right:10px;
+}
+#firstArticle{
+    margin-right: 150px;
+    font-size: 20px;
+    float: right;
+}
+.Iowa-city{
+    float: left;
+    margin-left: 50%;
+}
+#blink{
+    font-size: 100%;
+    float: right;
+    inline-size: 20px;
+    border: 10%;
+    margin right: 20px;
+}
+#logIn{
+    padding-left: 20px;
+}
+nav ul h3{
+    display: inline;
+    width: 100px;
+    align-content: center;
+    margin-top: 10.1%;
+    padding: 10px 10px ;
+    float: right;
+    text-decoration: none;
+}
+#month{
+    padding-left: 20px;
+}
+header{
+    border: 0px;
+    padding-bottom: 2.5mm;
+    margin-bottom: 0px;
+    background-image: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Circle-Simple-Background-Image-1.jpg);
+    }
+    main{
+        
+
+         }
+footer{
+    color: tomato;
+    padding-top: 0%;
+}
