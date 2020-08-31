@@ -18,7 +18,6 @@ h1{
 }
 h2{
     display: inline;
-    margin-top: 0px;
     color: rgb(252, 230, 35);
 }
 a{
@@ -52,18 +51,15 @@ margin-right:10px;
     float: right;
     inline-size: 20px;
     border: 10%;
-    margin right: 20px;
 }
+
 #logIn{
     padding-left: 20px;
 }
 nav ul h3{
     display: inline;
-    width: 100px;
     align-content: center;
-    margin-top: 10.1%;
     padding: 10px 10px ;
-    float: right;
     text-decoration: none;
 }
 #month{
@@ -75,11 +71,7 @@ header{
     margin-bottom: 0px;
     background-image: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Circle-Simple-Background-Image-1.jpg);
     }
-    main{
-        
-
-         }
-footer{
+    footer{
     color: tomato;
     padding-top: 0%;
 }
